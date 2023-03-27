@@ -1,0 +1,113 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.bg{
+    background-repeat: no-repeat;
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+    width: 58px;
+    padding: 20px;
+    margin: 0 3px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 17px;
+    background-color: whitesmoke;
+}
+
+.row{
+    margin: 3px 0px;
+}
+
+.row input{
+    padding: 20px 10px;
+    margin-bottom: 10px ;
+    font-size: 30px;
+    width: 260px;
+    border: none;
+    text-align: right;
+    /* background-color: red; */
+
+}
+
+h1{
+    margin: 8vh 0vh 10vh 0vh;
+    color: red;
+}
+
+.btnEqual{
+    background-color: red;
+}
+
+.container{
+    background-color: rgba(247, 153, 153, 0.536);
+    width: 20%;
+    padding: 15px 15px 15px 15px;
+    border: none;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+  }
+
+  
+/* .footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+    color: #666;
+  }
+.logo{
+    float: right;
+    height: 20px;
+  } */
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    padding-top: 10px;
+    width: 100%;
+    box-shadow: 0px 0px 25px rgb(207, 207, 207);
+    height: 17px;
+    color: #9B9B9B;
+    background: #F3F3F3;
+}
+
+.footer-content {
+    display: block;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    font: 25px Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    width:250px;
+    color: black;
+}
+.foot {
+ display:inline;
+    line-height: 30px;
+}
+.footer-content img {
+ height:20px;
+    float:right;
+    margin: 5px 5px 5px 5px;
+    margin-top: 3px;
+}
