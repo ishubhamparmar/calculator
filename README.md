@@ -1,21 +1,18 @@
 # Calculator
-MiniProject - Calculator using HTML, CSS and JavaScript.
 
+MiniProject - Calculator using HTML, CSS and JavaScript.
 
 Live: https://ishubhamparmar.github.io/calculator
 
 # Hi, I'm Shubham Parmar! 👋
 
-
 ## 🚀 About Me
 
-I'm a pre-final year Computer Science Engineering undergrad @ RGPV Bhopal. Currently Polishing DSA, Problem Solving and Web Development Skills.
-
-
+I'm a final year Computer Science Engineering undergrad @ RGPV Bhopal. Currently Polishing DSA, Problem Solving and Web Development Skills.
 
 ## 🛠 Skills
-Java, Javascript, HTML, CSS...
 
+Java, Javascript, HTML, CSS...
 
 ## 🔗 Links
 
